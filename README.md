@@ -1,6 +1,12 @@
-# create-react-component
+# How to Install
 
-0) install node
-1) open create-react-component directory in terminal
-2) chmod +x bin/index.js
-3) npm install -g .
+1) Install Node.js
+2) Open the "create-react-component" directory in your terminal
+3) Run the command: chmod +x bin/index.js
+4) Install globally using npm: npm install -g .
+
+# How to Use
+
+1) In the terminal, type: crc-cli MyExamplePage
+2) You can specify any number of elements like this: crc-cli Page1 Page2
+3) To skip questions, add the flag -y or --yes
