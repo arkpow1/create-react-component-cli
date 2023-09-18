@@ -1,7 +1,6 @@
+# Demo
+![image](https://github.com/arkpow1/create-react-component-cli/assets/105483056/78443c81-a658-440b-8dcf-19f2191cc034)
 # How to Install
-
- chmod +x bin/index.js
-
 
 1) Install Node.js
 2) Open the "create-react-component" directory in your terminal
