@@ -2,7 +2,7 @@
 
 1) Install Node.js
 2) Open the "create-react-component" directory in your terminal
-3) Run the command: chmod +x bin/index.js
+3) Run the command: chmod +x bin/index.js (for linux/mac); icacls bin\index.js (for windows);
 4) Install globally using npm: npm install -g .
 
 # How to Use
